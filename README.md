@@ -2,9 +2,10 @@
   <img src="https://i.imgyukle.com/2020/11/17/TYuenv.jpg" width="200" height="200">
   <h1>DTÖUserBot Qurulum</h1>
 </div>
-HerokuAPI'si işlədilərək edilmiş Avtomatik DTÖUserBot Deploy'er
 
-DTÖUserBot Repo : https://github.com/umudmmmdov1/DTOUserBot
+#HerokuAPI'si işlədilərək edilmiş Avtomatik DTÖUserBot Deploy
+
+#DTÖUserBot Repo : https://github.com/umudmmmdov1/DTOUserBot
 
 ## Qurulum
 ```sh
