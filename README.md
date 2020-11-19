@@ -5,7 +5,7 @@
 
 ## HerokuAPI'si işlədilərək edilmiş Avtomatik DTÖUserBot Deploy
 
-## DTÖUserBot Repo : https://github.com/umudmmmdov1/DTOUserBot
+## [DTÖUserBot Repo](https://github.com/umudmmmdov1/DTOUserBot)
 
 ## Qurulum
 ```sh
