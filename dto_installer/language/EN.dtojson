@@ -28,7 +28,7 @@
             "ERROR": "An error has occurred! Error:",
             "POSTGRE": "(i) Installing PostgreSql...",
             "SUCCESS_POSTGRE": "(✓) PostgreSql Installed!",
-            "AUTO_BOTLOG": "This group was automatically created with @asenauserbot in the post-installation phase.",
+            "AUTO_BOTLOG": "This group was automatically created with @DTOUserBot in the post-installation phase.",
             "DONT_LEAVE": "** PLEASE DON'T LEAVE THIS GROUP! **",
             "AFTER_INSTALL": "Do you want to start after installation?",
             "BOTLOG": "Create a BotLog Group",
