@@ -28,7 +28,7 @@
             "ERROR": "Bir hata gerçekleşti! Hata:",
             "POSTGRE": "(i) PostgreSql Yükleniyor...",
             "SUCCESS_POSTGRE": "(✓) PostgreSql Yüklendi!",
-            "AUTO_BOTLOG": "Bu grup otomatik olarak kurulum sonrası aşamasında @AsenaUserBot ile oluşturulmuştur.",
+            "AUTO_BOTLOG": "Bu grup otomatik olarak kurulum sonrası aşamasında @DTOUserBot ile oluşturulmuştur.",
             "DONT_LEAVE": "**LÜTFEN BU GRUPTAN AYRILMAYINIZ!**",
             "AFTER_INSTALL": "Kurulum sonrasını başlatmak ister misiniz?",
             "BOTLOG": "BotLog Grubu Oluştur",
