@@ -14,9 +14,9 @@ python3 -m dto_installer
 
 ## Yaradıcılar
 
-[@Ümüd Məmmədov](https://t.me/umudmmmdov1)
+[Ümüd Məmmədov](https://t.me/umudmmmdov1)
 
-[@Ghuliev](https://t.me/Ghuliev)
+[Ghuliev](https://t.me/Ghuliev)
 
 ## Lisenziya
 Bu proyekt GPL-3.0 lisenziyası ilə qorunur.
