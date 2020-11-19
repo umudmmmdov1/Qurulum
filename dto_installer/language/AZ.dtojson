@@ -28,7 +28,7 @@
             "ERROR": "Bir xəta baş verdi! Xəta:",
             "POSTGRE": "(i) PostgreSQL yüklənir...",
             "SUCCESS_POSTGRE": "(✓) PostgreSql Yükləndi!",
-            "AUTO_BOTLOG": "Bu qrup avtomatik olaraq quraşdırılma zamanı @AsenaUserBot ilə yaradılmışdır.",
+            "AUTO_BOTLOG": "Bu qrup avtomatik olaraq quraşdırılma zamanı @DTOUserBot ilə yaradılmışdır.",
             "DONT_LEAVE": "**XAHİŞ EDİRİK BU QRUPDAN ÇIXMAYIN!**",
             "AFTER_INSTALL": "Quraşdırılma sonrası prosedurunu başlatmaq istəyirsiniz?",
             "BOTLOG": "BotLog Qrupu Yaradın",
