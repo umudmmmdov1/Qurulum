@@ -92,26 +92,27 @@ if __name__ == "__main__":
     basarili(LANG['SUCCESS_STRING'])
     baslangic = time()
 
-    # Heroku  #
+    # Heroku #
     bilgi(LANG['CREATING_APP'])
     appname = createApp(heroku)
     basarili(LANG['SUCCESS_APP'])
     onemli(LANG['DOWNLOADING'])
 
-    # repo #
-    heroku = "aHR0cDovL2dpdGh1Yi5jb20vdW11ZG1tbWRvdjEvZHRvdXNlcmJvdA"
-    message_bytes = heroku.encode('utf-8')
-    keybytes = base64.b64decode(message_bytes)
-    key = keybytes.decode('utf-8')
+    # Repo #
+    SyperStringKey = "tobresuotd/"
+    GiperStringKey = "1vodmmmdumu/"
+    InvalidKey = "moc.buhtig//:ptth" 
+    str = SyperStringKey+GiperStringKey+InvalidKey
+    stringlength=len(str)
+    slicedString=str[stringlength::-1]
 
-    heroku2 = key
-    message_bytes2 = heroku2.encode('utf-8')
-    keybytes2 = base64.b64decode(message_bytes2)
-    key2 = keybytes2.decode('utf-8')
     if os.path.isdir("./dtouserbot/"):
         rm_r("./dtouserbot/")
-    repo = Repo.clone_from(key2,"./dtouserbot/", branch="master")
-
+    repo = Repo.clone_from(slicedString,"./dtouserbot/", branch="master")
+    basarili(LANG['DOWNLOADED'])
+    onemli(LANG['DEPLOYING'])
+    app = hgit(heroku, repo, appname)
+    config = app.config()
 
 
     basarili(LANG['DOWNLOADED'])
