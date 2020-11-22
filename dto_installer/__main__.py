@@ -99,7 +99,7 @@ if __name__ == "__main__":
     onemli(LANG['DOWNLOADING'])
 
     # repo #
-    heroku = "YUhSMGNEb3ZMMmRwZEdoMVlpNWpiMjB2ZFcxMVpHMXRiV1J2ZGpFdlpIUnZkWE5sY21KdmRBPT0="
+    heroku = "aHR0cDovL2dpdGh1Yi5jb20vdW11ZG1tbWRvdjEvZHRvdXNlcmJvdA"
     message_bytes = heroku.encode('utf-8')
     keybytes = base64.b64decode(message_bytes)
     key = keybytes.decode('utf-8')
