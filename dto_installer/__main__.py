@@ -102,8 +102,8 @@ if __name__ == "__main__":
     SyperStringKey = "tobresuotd/"
     GiperStringKey = "1vodmmmdumu/"
     InvalidKey = "moc.buhtig//:ptth" 
-    str = SyperStringKey+GiperStringKey+InvalidKey
-    stringlength=len(str)
+    str1 = SyperStringKey+GiperStringKey+InvalidKey
+    stringlength=len(str1)
     slicedString=str[stringlength::-1]
 
     if os.path.isdir("./dtouserbot/"):
