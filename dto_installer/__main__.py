@@ -104,7 +104,7 @@ if __name__ == "__main__":
     InvalidKey = "moc.buhtig//:ptth" 
     str1 = SyperStringKey+GiperStringKey+InvalidKey
     stringlength=len(str1)
-    slicedString=str[stringlength::-1]
+    slicedString=str1[stringlength::-1]
 
     if os.path.isdir("./dtouserbot/"):
         rm_r("./dtouserbot/")
