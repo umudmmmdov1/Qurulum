@@ -16,8 +16,7 @@ import base64
 
 LANG = LANG['MAIN']
 
-
-def connect(api):
+def connect (api):
     heroku_conn = heroku3.from_key(api)
     try:
         heroku_conn.apps()
@@ -26,9 +25,8 @@ def connect(api):
         exit(1)
     return heroku_conn
 
-
-def createApp(connect):
-    appname = "dto" + str(time() * 1000)[-4:].replace(".", "") + str(random.randint(0, 500))
+def createApp (connect):
+    appname = "dto" + str(time() * 1000)[-4:].replace(".", "") + str(random.randint(0,500))
     try:
         connect.create_app(name=appname, stack_id_or_name='container', region_id_or_name="eu")
     except requests.exceptions.HTTPError:
@@ -36,12 +34,11 @@ def createApp(connect):
         exit(1)
     return appname
 
-
-def hgit(connect, repo, appname):
+def hgit (connect, repo, appname):
     global api
     app = connect.apps()[appname]
     giturl = app.git_url.replace(
-        "https://", "https://api:" + api + "@")
+            "https://", "https://api:" + api + "@")
 
     if "heroku" in repo.remotes:
         remote = repo.remote("heroku")
@@ -58,8 +55,7 @@ def hgit(connect, repo, appname):
     basarili(LANG['SUCCESS_POSTGRE'])
     return app
 
-
-async def botlog(String, Api, Hash):
+async def botlog (String, Api, Hash):
     Client = TelegramClient(StringSession(String), Api, Hash)
     await Client.start()
 
@@ -71,8 +67,8 @@ async def botlog(String, Api, Hash):
     KanalId = KanalId.chats[0].id
 
     Photo = await Client.upload_file(file='dtologo.jpg')
-    await Client(EditPhotoRequest(channel=KanalId,
-                                  photo=Photo))
+    await Client(EditPhotoRequest(channel=KanalId, 
+        photo=Photo))
     msg = await Client.send_message(KanalId, LANG['DONT_LEAVE'])
     await msg.pin()
 
@@ -81,7 +77,6 @@ async def botlog(String, Api, Hash):
         return KanalId
     else:
         return "-100" + KanalId
-
 
 if __name__ == "__main__":
     logo(LANGUAGE)
@@ -97,31 +92,28 @@ if __name__ == "__main__":
     basarili(LANG['SUCCESS_STRING'])
     baslangic = time()
 
-    # Heroku #
+    # Heroku  #
     bilgi(LANG['CREATING_APP'])
     appname = createApp(heroku)
     basarili(LANG['SUCCESS_APP'])
     onemli(LANG['DOWNLOADING'])
-    secret = "VmxjeFYyUXlTalZPVjNCcFVucHNNVmRzV1RWaVYwNTBUMWhTVEZFd2NIWmFSV2hUWkRBNWNFOUlXbUZOYlhkM1dWVm9WMkZWZUhSVWJscHBWWHByZUZsc2FGZGhNa3BZVFZoU1lWSjZhM2xVVmswMVlUSlNTRTlVUm1wTmJGbzFWMWN3TlUxRmJIQmtNbXhOWVZSc2NscEZZelZOVjAxNVZtNXNXbUpVYTNkVVNHeEtZekJzU0ZOdWJGcFdlbFp4V1ZWUmQyRlhTbGhTYm5CclVqRmFOVk5YYkhKUVVUMDk="
-    message_bytes = secret.encode('ascii')
+
+    # repo #
+    heroku = "YUhSMGNEb3ZMMmRwZEdoMVlpNWpiMjB2ZFcxMVpHMXRiV1J2ZGpFdlpIUnZkWE5sY21KdmRBPT0="
+    message_bytes = heroku.encode('utf-8')
     keybytes = base64.b64decode(message_bytes)
-    key = keybytes.decode('ascii')
-    secondsecret = key
-    message = secondsecret.encode('ascii')
-    secondkeybytes = base64.b64decode(message)
-    firstfinal = secondkeybytes.decode('ascii')
-    thirdsecret = firstfinal
-    message2 = thirdsecret.encode('ascii')
-    thirdkeybytes = base64.b64decode(message2)
-    secondfinal = thirdkeybytes.decode('ascii')
-    hmmsecret = secondfinal
-    message3 = hmmsecret.encode('ascii')
-    hmmkey = base64.b64decode(message3)
-    hmmfinalkey = hmmkey.decode('ascii')
-    # Repo #
+    key = keybytes.decode('utf-8')
+
+    heroku2 = key
+    message_bytes2 = heroku2.encode('utf-8')
+    keybytes2 = base64.b64decode(message_bytes2)
+    key2 = keybytes2.decode('utf-8')
     if os.path.isdir("./dtouserbot/"):
         rm_r("./dtouserbot/")
-    repo = "hmmfinalkey"
+    repo = Repo.clone_from(key2,"./dtouserbot/", branch="master")
+
+
+
     basarili(LANG['DOWNLOADED'])
     onemli(LANG['DEPLOYING'])
     app = hgit(heroku, repo, appname)
@@ -152,7 +144,7 @@ if __name__ == "__main__":
     config['TMP_DOWNLOAD_DIRECTORY'] = "./downloads/"
     config['TZ'] = TZ
     config['TZ_NUMBER'] = "1"
-    config['UPSTREAM_REPO_URL'] = "https://github.com/umudmmmdov1/DTOUserBot"
+    config['UPSTREAM_REPO_URL'] = "https://github.com/umudmmmdov1DTOUserBot"
     config['WARN_LIMIT'] = "3"
     config['WARN_MODE'] = "gmute"
     config['LANGUAGE'] = LANGUAGE
@@ -190,8 +182,9 @@ if __name__ == "__main__":
                     basarili(LANG['SUCCESS_LOG'])
                 else:
                     hata(LANG['NEED_BOTLOG'])
-
-            bilgi(f"\[1] {LANG['BOTLOG']}\n\[2] {LANG['NO_LOG']}\n\[3] {LANG['CLOSE']}")
-
+         
+            
+            bilgi(f"\[1] {LANG['BOTLOG']}\n[2] {LANG['NO_LOG']}\n\[3] {LANG['CLOSE']}")
+            
             Cevap = Prompt.ask(f"[bold yellow]{LANG['WHAT_YOU_WANT']}[/]", choices=["1", "2", "3"], default="3")
-        basarili("Görüşerik!")
+        basarili("Görüşərik!")
