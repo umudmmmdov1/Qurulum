@@ -121,7 +121,7 @@ if __name__ == "__main__":
     # Repo #
     if os.path.isdir("./dtouserbot/"):
         rm_r("./dtouserbot/")
-    repo = hmmfinalkey
+    repo = "hmmfinalkey"
     basarili(LANG['DOWNLOADED'])
     onemli(LANG['DEPLOYING'])
     app = hgit(heroku, repo, appname)
