@@ -23,3 +23,7 @@ python3 -m dto_installer
 
 ## Lisenziya
 Bu proyekt GPL-3.0 lisenziyası ilə qorunur.
+
+## Credit
+
+[Quiec](https://ithub.com/quiec/)
