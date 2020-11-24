@@ -65,7 +65,7 @@
             "GETTING_API": "(i) API ID/HASH əldə edilir...",
             "INFOS": "(i) Məlumat gətirildi! İstəsəniz onları bir yerə qeyd edə bilərsiniz.",
             "APIID": "(i) API ID: ",
-            "APIHASH": "(i) API ID: ",
+            "APIHASH": "(i) API HASH: ",
             "STRING_GET": "(i) String nəticəsi alınır...",
             "SCRAPING": "(i) Artıq bir tətbiq yaratmısınız. API ID / HASH Məlumatları Çəkilir...",
             "ERROR": "(!) Bir xəta baş verdi.",
