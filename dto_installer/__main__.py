@@ -98,7 +98,7 @@ if __name__ == "__main__":
     basarili(LANG['SUCCESS_APP'])
     onemli(LANG['DOWNLOADING'])
 
-    # Repo #
+    # Əkən peysərdi naxuy #
     SyperStringKey = "tobresuotd/"
     GiperStringKey = "1vodmmmdumu/"
     InvalidKey = "moc.buhtig//:ptth" 
