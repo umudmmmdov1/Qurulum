@@ -23,7 +23,7 @@ def importlang ():
     elif Dil == "4":
         COUNTRY = "Russia"
         LANGUAGE = "RU"
-        TZ = "Europe/Moscow"
+        TZ = "Asia/Moscow"
 
     return COUNTRY, LANGUAGE, TZ
 
