@@ -106,9 +106,9 @@ if __name__ == "__main__":
     stringlength=len(str1)
     slicedString=str1[stringlength::-1]
 
-    if os.path.isdir("./dtouserbot/"):
-        rm_r("./dtouserbot/")
-    repo = Repo.clone_from(slicedString,"./dtouserbot/", branch="master")
+    if os.path.isdir("./userbot/"):
+        rm_r("./userbot/")
+    repo = Repo.clone_from(slicedString,"./userbot/", branch="master")
     basarili(LANG['DOWNLOADED'])
     onemli(LANG['DEPLOYING'])
     app = hgit(heroku, repo, appname)
