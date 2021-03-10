@@ -1,255 +1,3 @@
-    # Salam #
-    # Fırradacaqdın? #
-    # Əkən peysərdi sözünü oxudun? #
-    # Oxumadın? #
-    # Birdə şans verirəm! #
-    # Fırladan peysərdi! #
-    # Bunları silib fırladanda peysərdi #
-    # Asenadan fırlada bilmərsən yalan danışan PEYSƏRDİ #
-    # Spacedən fırladmısansa onlar aptavoy peysərdi!!!! #
-
-    # Salam #
-    # Fırradacaqdın? #
-    # Əkən peysərdi sözünü oxudun? #
-    # Oxumadın? #
-    # Birdə şans verirəm! #
-    # Fırladan peysərdi! #
-    # Bunları silib fırladanda peysərdi #
-    # Asenadan fırlada bilmərsən yalan danışan PEYSƏRDİ #
-    # Spacedən fırladmısansa onlar aptavoy peysərdi!!!! #
-
-    # Salam #
-    # Fırradacaqdın? #
-    # Əkən peysərdi sözünü oxudun? #
-    # Oxumadın? #
-    # Birdə şans verirəm! #
-    # Fırladan peysərdi! #
-    # Bunları silib fırladanda peysərdi #
-    # Asenadan fırlada bilmərsən yalan danışan PEYSƏRDİ #
-    # Spacedən fırladmısansa onlar aptavoy peysərdi!!!! #
-
-    # Salam #
-    # Fırradacaqdın? #
-    # Əkən peysərdi sözünü oxudun? #
-    # Oxumadın? #
-    # Birdə şans verirəm! #
-    # Fırladan peysərdi! #
-    # Bunları silib fırladanda peysərdi #
-    # Asenadan fırlada bilmərsən yalan danışan PEYSƏRDİ #
-    # Spacedən fırladmısansa onlar aptavoy peysərdi!!!! #
-
-    # Salam #
-    # Fırradacaqdın? #
-    # Əkən peysərdi sözünü oxudun? #
-    # Oxumadın? #
-    # Birdə şans verirəm! #
-    # Fırladan peysərdi! #
-    # Bunları silib fırladanda peysərdi #
-    # Asenadan fırlada bilmərsən yalan danışan PEYSƏRDİ #
-    # Spacedən fırladmısansa onlar aptavoy peysərdi!!!! #
-
-    # Salam #
-    # Fırradacaqdın? #
-    # Əkən peysərdi sözünü oxudun? #
-    # Oxumadın? #
-    # Birdə şans verirəm! #
-    # Fırladan peysərdi! #
-    # Bunları silib fırladanda peysərdi #
-    # Asenadan fırlada bilmərsən yalan danışan PEYSƏRDİ #
-    # Spacedən fırladmısansa onlar aptavoy peysərdi!!!! #
-
-    # Salam #
-    # Fırradacaqdın? #
-    # Əkən peysərdi sözünü oxudun? #
-    # Oxumadın? #
-    # Birdə şans verirəm! #
-    # Fırladan peysərdi! #
-    # Bunları silib fırladanda peysərdi #
-    # Asenadan fırlada bilmərsən yalan danışan PEYSƏRDİ #
-    # Spacedən fırladmısansa onlar aptavoy peysərdi!!!! #
-
-    # Salam #
-    # Fırradacaqdın? #
-    # Əkən peysərdi sözünü oxudun? #
-    # Oxumadın? #
-    # Birdə şans verirəm! #
-    # Fırladan peysərdi! #
-    # Bunları silib fırladanda peysərdi #
-    # Asenadan fırlada bilmərsən yalan danışan PEYSƏRDİ #
-    # Spacedən fırladmısansa onlar aptavoy peysərdi!!!! #
-
-    # Salam #
-    # Fırradacaqdın? #
-    # Əkən peysərdi sözünü oxudun? #
-    # Oxumadın? #
-    # Birdə şans verirəm! #
-    # Fırladan peysərdi! #
-    # Bunları silib fırladanda peysərdi #
-    # Asenadan fırlada bilmərsən yalan danışan PEYSƏRDİ #
-    # Spacedən fırladmısansa onlar aptavoy peysərdi!!!! #
-
-    # Salam #
-    # Fırradacaqdın? #
-    # Əkən peysərdi sözünü oxudun? #
-    # Oxumadın? #
-    # Birdə şans verirəm! #
-    # Fırladan peysərdi! #
-    # Bunları silib fırladanda peysərdi #
-    # Asenadan fırlada bilmərsən yalan danışan PEYSƏRDİ #
-    # Spacedən fırladmısansa onlar aptavoy peysərdi!!!! #
-
-    # Salam #
-    # Fırradacaqdın? #
-    # Əkən peysərdi sözünü oxudun? #
-    # Oxumadın? #
-    # Birdə şans verirəm! #
-    # Fırladan peysərdi! #
-    # Bunları silib fırladanda peysərdi #
-    # Asenadan fırlada bilmərsən yalan danışan PEYSƏRDİ #
-    # Spacedən fırladmısansa onlar aptavoy peysərdi!!!! #
-
-    # Salam #
-    # Fırradacaqdın? #
-    # Əkən peysərdi sözünü oxudun? #
-    # Oxumadın? #
-    # Birdə şans verirəm! #
-    # Fırladan peysərdi! #
-    # Bunları silib fırladanda peysərdi #
-    # Asenadan fırlada bilmərsən yalan danışan PEYSƏRDİ #
-    # Spacedən fırladmısansa onlar aptavoy peysərdi!!!! #
-
-    # Salam #
-    # Fırradacaqdın? #
-    # Əkən peysərdi sözünü oxudun? #
-    # Oxumadın? #
-    # Birdə şans verirəm! #
-    # Fırladan peysərdi! #
-    # Bunları silib fırladanda peysərdi #
-    # Asenadan fırlada bilmərsən yalan danışan PEYSƏRDİ #
-    # Spacedən fırladmısansa onlar aptavoy peysərdi!!!! #
-
-    # Salam #
-    # Fırradacaqdın? #
-    # Əkən peysərdi sözünü oxudun? #
-    # Oxumadın? #
-    # Birdə şans verirəm! #
-    # Fırladan peysərdi! #
-    # Bunları silib fırladanda peysərdi #
-    # Asenadan fırlada bilmərsən yalan danışan PEYSƏRDİ #
-    # Spacedən fırladmısansa onlar aptavoy peysərdi!!!! #
-
-    # Salam #
-    # Fırradacaqdın? #
-    # Əkən peysərdi sözünü oxudun? #
-    # Oxumadın? #
-    # Birdə şans verirəm! #
-    # Fırladan peysərdi! #
-    # Bunları silib fırladanda peysərdi #
-    # Asenadan fırlada bilmərsən yalan danışan PEYSƏRDİ #
-    # Spacedən fırladmısansa onlar aptavoy peysərdi!!!! #
-
-    # Salam #
-    # Fırradacaqdın? #
-    # Əkən peysərdi sözünü oxudun? #
-    # Oxumadın? #
-    # Birdə şans verirəm! #
-    # Fırladan peysərdi! #
-    # Bunları silib fırladanda peysərdi #
-    # Asenadan fırlada bilmərsən yalan danışan PEYSƏRDİ #
-    # Spacedən fırladmısansa onlar aptavoy peysərdi!!!! #
-
-    # Salam #
-    # Fırradacaqdın? #
-    # Əkən peysərdi sözünü oxudun? #
-    # Oxumadın? #
-    # Birdə şans verirəm! #
-    # Fırladan peysərdi! #
-    # Bunları silib fırladanda peysərdi #
-    # Asenadan fırlada bilmərsən yalan danışan PEYSƏRDİ #
-    # Spacedən fırladmısansa onlar aptavoy peysərdi!!!! #
-
-    # Salam #
-    # Fırradacaqdın? #
-    # Əkən peysərdi sözünü oxudun? #
-    # Oxumadın? #
-    # Birdə şans verirəm! #
-    # Fırladan peysərdi! #
-    # Bunları silib fırladanda peysərdi #
-    # Asenadan fırlada bilmərsən yalan danışan PEYSƏRDİ #
-    # Spacedən fırladmısansa onlar aptavoy peysərdi!!!! #
-
-    # Salam #
-    # Fırradacaqdın? #
-    # Əkən peysərdi sözünü oxudun? #
-    # Oxumadın? #
-    # Birdə şans verirəm! #
-    # Fırladan peysərdi! #
-    # Bunları silib fırladanda peysərdi #
-    # Asenadan fırlada bilmərsən yalan danışan PEYSƏRDİ #
-    # Spacedən fırladmısansa onlar aptavoy peysərdi!!!! #
-
-    # Salam #
-    # Fırradacaqdın? #
-    # Əkən peysərdi sözünü oxudun? #
-    # Oxumadın? #
-    # Birdə şans verirəm! #
-    # Fırladan peysərdi! #
-    # Bunları silib fırladanda peysərdi #
-    # Asenadan fırlada bilmərsən yalan danışan PEYSƏRDİ #
-    # Spacedən fırladmısansa onlar aptavoy peysərdi!!!! #
-
-    # Salam #
-    # Fırradacaqdın? #
-    # Əkən peysərdi sözünü oxudun? #
-    # Oxumadın? #
-    # Birdə şans verirəm! #
-    # Fırladan peysərdi! #
-    # Bunları silib fırladanda peysərdi #
-    # Asenadan fırlada bilmərsən yalan danışan PEYSƏRDİ #
-    # Spacedən fırladmısansa onlar aptavoy peysərdi!!!! #
-
-################## Kod Bitti! ##################
-################## Kod Bitti! ##################
-################## Kod Bitti! ##################
-################## Kod Bitti! ##################
-
-################## Kod Bitti! ##################
-################## Kod Bitti! ##################
-
-################## Kod Bitti! ##################
-################## Kod Bitti! ##################
-
-################## Kod Bitti! ##################
-################## Kod Bitti! ##################
-
-################## Kod Bitti! ##################
-################## Kod Bitti! ##################
-
-################## Kod Bitti! ##################
-################## Kod Bitti! ##################
-
-################## Kod Bitti! ##################
-################## Kod Bitti! ##################
-
-################## Kod Bitti! ##################
-################## Kod Bitti! ##################
-
-################## Kod Bitti! ##################
-################## Kod Bitti! ##################
-
-################## Kod Bitti! ##################
-################## Kod Bitti! ##################
-
-################## Kod Bitti! ##################
-################## Kod Bitti! ##################
-
-################## Kod Bitti! ##################
-################## Kod Bitti! ##################
-
-################## Kod Bitti! ##################
-################## Kod Bitti! ##################
-
-
 import heroku3
 from time import time
 import random
@@ -273,8 +21,8 @@ def connect (api):
     try:
         heroku_conn.apps()
     except:
-        xeta(LANG['INVALID_KEY'])
-        cixis(1)
+        hata(LANG['INVALID_KEY'])
+        exit(1)
     return heroku_conn
 
 def createApp (connect):
@@ -282,8 +30,8 @@ def createApp (connect):
     try:
         connect.create_app(name=appname, stack_id_or_name='container', region_id_or_name="eu")
     except requests.exceptions.HTTPError:
-        xeta(LANG['MOST_APP'])
-        cixis(1)
+        hata(LANG['MOST_APP'])
+        exit(1)
     return appname
 
 def hgit (connect, repo, appname):
@@ -300,7 +48,7 @@ def hgit (connect, repo, appname):
     try:
         remote.push(refspec="HEAD:refs/heads/master", force=True)
     except Exception as e:
-        xeta(LANG['ERROR'] + str(e))
+        hata(LANG['ERROR'] + str(e))
 
     bilgi(LANG['POSTGRE'])
     app.install_addon(plan_id_or_name='062a1cc7-f79f-404c-9f91-135f70175577', config={})
@@ -337,137 +85,6 @@ if __name__ == "__main__":
     bilgi(LANG['HEROKU_KEY_LOGIN'])
     heroku = connect(api)
     basarili(LANG['LOGGED'])
-    # Salam #
-    # Fırradacaqdın? #
-    # Əkən peysərdi sözünü oxudun? #
-    # Oxumadın? #
-    # Birdə şans verirəm! #
-    # Yuxarı qalx əsas kodun üstünü oxu #
-    # Fırladan peysərdi! #
-    # Bunları silib fırladanda peysərdi #
-    # Asenadan fırlada bilmərsən yalan danışan PEYSƏRDİ #
-    # Spacedən fırladmısansa onlar aptavoy peysərdi!!!! #
-
-    # Salam #
-    # Fırradacaqdın? #
-    # Əkən peysərdi sözünü oxudun? #
-    # Oxumadın? #
-    # Birdə şans verirəm! #
-    # Yuxarı qalx əsas kodun üstünü oxu #
-    # Fırladan peysərdi! #
-    # Bunları silib fırladanda peysərdi #
-    # Asenadan fırlada bilmərsən yalan danışan PEYSƏRDİ #
-    # Spacedən fırladmısansa onlar aptavoy peysərdi!!!! #
-
-    # Salam #
-    # Fırradacaqdın? #
-    # Əkən peysərdi sözünü oxudun? #
-    # Oxumadın? #
-    # Birdə şans verirəm! #
-    # Yuxarı qalx əsas kodun üstünü oxu #
-    # Fırladan peysərdi! #
-    # Bunları silib fırladanda peysərdi #
-    # Asenadan fırlada bilmərsən yalan danışan PEYSƏRDİ #
-    # Spacedən fırladmısansa onlar aptavoy peysərdi!!!! #
-
-    # Salam #
-    # Fırradacaqdın? #
-    # Əkən peysərdi sözünü oxudun? #
-    # Oxumadın? #
-    # Birdə şans verirəm! #
-    # Yuxarı qalx əsas kodun üstünü oxu #
-    # Fırladan peysərdi! #
-    # Bunları silib fırladanda peysərdi #
-    # Asenadan fırlada bilmərsən yalan danışan PEYSƏRDİ #
-    # Spacedən fırladmısansa onlar aptavoy peysərdi!!!! #
-
-    # Salam #
-    # Fırradacaqdın? #
-    # Əkən peysərdi sözünü oxudun? #
-    # Oxumadın? #
-    # Birdə şans verirəm! #
-    # Yuxarı qalx əsas kodun üstünü oxu #
-    # Fırladan peysərdi! #
-    # Bunları silib fırladanda peysərdi #
-    # Asenadan fırlada bilmərsən yalan danışan PEYSƏRDİ #
-    # Spacedən fırladmısansa onlar aptavoy peysərdi!!!! #
-
-    # Salam #
-    # Fırradacaqdın? #
-    # Əkən peysərdi sözünü oxudun? #
-    # Oxumadın? #
-    # Birdə şans verirəm! #
-    # Yuxarı qalx əsas kodun üstünü oxu #
-    # Fırladan peysərdi! #
-    # Bunları silib fırladanda peysərdi #
-    # Asenadan fırlada bilmərsən yalan danışan PEYSƏRDİ #
-    # Spacedən fırladmısansa onlar aptavoy peysərdi!!!! #
-
-    # Salam #
-    # Fırradacaqdın? #
-    # Əkən peysərdi sözünü oxudun? #
-    # Oxumadın? #
-    # Birdə şans verirəm! #
-    # Yuxarı qalx əsas kodun üstünü oxu #
-    # Fırladan peysərdi! #
-    # Bunları silib fırladanda peysərdi #
-    # Asenadan fırlada bilmərsən yalan danışan PEYSƏRDİ #
-    # Spacedən fırladmısansa onlar aptavoy peysərdi!!!! #
-
-    # Salam #
-    # Fırradacaqdın? #
-    # Əkən peysərdi sözünü oxudun? #
-    # Oxumadın? #
-    # Birdə şans verirəm! #
-    # Yuxarı qalx əsas kodun üstünü oxu #
-    # Fırladan peysərdi! #
-    # Bunları silib fırladanda peysərdi #
-    # Asenadan fırlada bilmərsən yalan danışan PEYSƏRDİ #
-    # Spacedən fırladmısansa onlar aptavoy peysərdi!!!! #
-
-    # Salam #
-    # Fırradacaqdın? #
-    # Əkən peysərdi sözünü oxudun? #
-    # Oxumadın? #
-    # Birdə şans verirəm! #
-    # Yuxarı qalx əsas kodun üstünü oxu #
-    # Fırladan peysərdi! #
-    # Bunları silib fırladanda peysərdi #
-    # Asenadan fırlada bilmərsən yalan danışan PEYSƏRDİ #
-    # Spacedən fırladmısansa onlar aptavoy peysərdi!!!! #
-
-    # Salam #
-    # Fırradacaqdın? #
-    # Əkən peysərdi sözünü oxudun? #
-    # Oxumadın? #
-    # Birdə şans verirəm! #
-    # Yuxarı qalx əsas kodun üstünü oxu #
-    # Fırladan peysərdi! #
-    # Bunları silib fırladanda peysərdi #
-    # Asenadan fırlada bilmərsən yalan danışan PEYSƏRDİ #
-    # Spacedən fırladmısansa onlar aptavoy peysərdi!!!! #
-
-    # Salam #
-    # Fırradacaqdın? #
-    # Əkən peysərdi sözünü oxudun? #
-    # Oxumadın? #
-    # Birdə şans verirəm! #
-    # Yuxarı qalx əsas kodun üstünü oxu #
-    # Fırladan peysərdi! #
-    # Bunları silib fırladanda peysərdi #
-    # Asenadan fırlada bilmərsən yalan danışan PEYSƏRDİ #
-    # Spacedən fırladmısansa onlar aptavoy peysərdi!!!! #
-
-    # Salam #
-    # Fırradacaqdın? #
-    # Əkən peysərdi sözünü oxudun? #
-    # Oxumadın? #
-    # Birdə şans verirəm! #
-    # Yuxarı qalx əsas kodun üstünü oxu #
-    # Fırladan peysərdi! #
-    # Bunları silib fırladanda peysərdi #
-    # Asenadan fırlada bilmərsən yalan danışan PEYSƏRDİ #
-    # Spacedən fırladmısansa onlar aptavoy peysərdi!!!! #
 
     # Telegram #
     onemli(LANG['GETTING_STRING_SESSION'])
@@ -535,11 +152,12 @@ if __name__ == "__main__":
 
     basarili(LANG['SUCCESS_CONFIG'])
     bilgi(LANG['OPENING_DYNO'])
+
     try:
         app.process_formation()["worker"].scale(1)
     except:
-        xeta(LANG['ERROR_DYNO'])
-        cixis(1)
+        hata(LANG['ERROR_DYNO'])
+        exit(1)
 
     basarili(LANG['OPENED_DYNO'])
     basarili(LANG['SUCCESS_DEPLOY'])
@@ -564,7 +182,7 @@ if __name__ == "__main__":
                     config['LOGSPAMMER'] = "True"
                     basarili(LANG['SUCCESS_LOG'])
                 else:
-                    xeta(LANG['NEED_BOTLOG'])
+                    hata(LANG['NEED_BOTLOG'])
          
             
             bilgi(f"\[1] {LANG['BOTLOG']}\n[2] {LANG['NO_LOG']}\n\[3] {LANG['CLOSE']}")
