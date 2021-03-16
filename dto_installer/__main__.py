@@ -168,7 +168,7 @@ if __name__ == "__main__":
     if Sonra == True:
         BotLog = False
         Cevap = ""
-        while not Cevap == "5":
+        while not Cevap == "6":
             if Cevap == "1":
                 bilgi(LANG['OPENING_BOTLOG'])
 
@@ -184,7 +184,7 @@ if __name__ == "__main__":
                     basarili(LANG['SUCCESS_LOG'])
                 else:
                     hata(LANG['NEED_BOTLOG'])
-           elif Cevap == "3":
+            elif Cevap == "3":
                 config['PM_AUTO_BAN'] = "True"
                 basarili(LANG['SUCCESS_PMAUTO'])
             elif Cevap == "4":
