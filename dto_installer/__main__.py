@@ -168,7 +168,7 @@ if __name__ == "__main__":
     if Sonra == True:
         BotLog = False
         Cevap = ""
-        while not Cevap == "3":
+        while not Cevap == "5":
             if Cevap == "1":
                 bilgi(LANG['OPENING_BOTLOG'])
 
