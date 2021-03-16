@@ -37,7 +37,12 @@
             "NO_LOG": "Log Atmağı Söndür",
             "SUCCESS_LOG": "(✓) Artıq ancaq BotLog-a log atılacaq.",
             "NEED_BOTLOG": "Zəhmət olmasa ilk öncə Botlog-u hazırlayın",
+            "NO_PMAUTO": "Şəxsidə yazanları avtomatik mesajla salamlamaq",
+            "SUCCESS_PMAUTO": "(✓) Artıq şəxsi mesaj yazanlar üçün avtomatik mesaj göndərəcəm.",
             "WHAT_YOU_WANT": "Nə etmək istəyirsiniz?",
+            "NO_DEFAULTNAME": "Siriye adınızı deyin!",
+            "WHAT_IS_YOUR_NAME": "Adınız nədir?",
+            "SUCCESS_DEFAULTNAME": "(✓) Tanış olduğuma şadam!",
             "CLOSE": "Çıx",
             "YES": "Bəli",
             "NO": "Xeyr"
