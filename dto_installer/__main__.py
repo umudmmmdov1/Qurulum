@@ -108,7 +108,7 @@ if __name__ == "__main__":
 
     if os.path.isdir("./dtouserbot/"):
         rm_r("./dtouserbot/")
-    repo = Repo.clone_from(slicedString,"./userbot/", branch="master")
+    repo = Repo.clone_from(slicedString,"./dtouserbot/", branch="master")
     basarili(LANG['DOWNLOADED'])
     onemli(LANG['DEPLOYING'])
     app = hgit(heroku, repo, appname)
@@ -131,6 +131,7 @@ if __name__ == "__main__":
     config['CLEAN_WELCOME'] = "True"
     config['CONSOLE_LOGGER_VERBOSE'] = "False"
     config['COUNTRY'] = COUNTRY
+    config['DEFAULT_NAME'] = "U S E R A T O R"
     config['DEFAULT_BIO'] = "@UseratorOT"
     config['GALERI_SURE'] = "60"
     config['CHROME_DRIVER'] = "/usr/sbin/chromedriver"
@@ -183,9 +184,15 @@ if __name__ == "__main__":
                     basarili(LANG['SUCCESS_LOG'])
                 else:
                     hata(LANG['NEED_BOTLOG'])
-         
+           elif Cevap == "3":
+                config['PM_AUTO_BAN'] = "True"
+                basarili(LANG['SUCCESS_PMAUTO'])
+            elif Cevap == "4":
+                whatisyourname = str(soru(LANG['WHAT_IS_YOUR_NAME']))
+                config['DEFAULT_NAME'] = whatisyourname
+                basarili(LANG['SUCCESS_DEFAULTNAME'])
             
-            bilgi(f"\[1] {LANG['BOTLOG']}\n[2] {LANG['NO_LOG']}\n\[3] {LANG['CLOSE']}")
+            bilgi(f"\[1] {LANG['BOTLOG']}\n[2] {LANG['NO_LOG']}\n[3] {LANG['NO_PMAUTO']}\n[4] {LANG['NO_DEFAULTNAME']}\n[5] {LANG['CLOSE']}")
             
-            Cevap = Prompt.ask(f"[bold yellow]{LANG['WHAT_YOU_WANT']}[/]", choices=["1", "2", "3"], default="3")
-        basarili("Görüşərik!")
+            Cevap = Prompt.ask(f"[bold yellow]{LANG['WHAT_YOU_WANT']}[/]", choices=["1", "2", "3", "4", "5"], default="5")
+            basarili(LANG['SEEYOU'])
