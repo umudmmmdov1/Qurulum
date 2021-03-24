@@ -6,7 +6,7 @@
     "STRINGS": {
         "MAIN": {
             "INVALID_KEY": "(!) API Key səhvdir.",
-            "HEROKU_KEY": "\n(?) Heroku API Key'inizi Yazın: ",
+            "HEROKU_KEY": "\n(?) Heroku API KEY'inizi Yazın: ",
             "HEROKU_KEY_LOGIN": "(i) Heroku'ya daxil olunur...",
             "LOGGED": "(✓) Giriş Uğurludur!",
             "GETTING_STRING_SESSION": "(i) StringSession alınır...\n",
